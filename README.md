@@ -27,7 +27,7 @@ Please follow the below steps to setup the pipeline. If you are using [AWS free 
 Clone the repo
 
 ```
-git clone https://github.com/joyceannie/Reddit_Data_Pipeline.git
+git clone https://github.com/AnkitV02/Reddit-Data-Analysis-Dashboard.git
 cd  Reddit_Data_Pipeline
 ```
 
